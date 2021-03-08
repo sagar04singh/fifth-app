@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fifth-app/static/css/main.81fa4e35.chunk.css",
-    "main.js": "/fifth-app/static/js/main.85734f2c.chunk.js",
-    "main.js.map": "/fifth-app/static/js/main.85734f2c.chunk.js.map",
+    "main.js": "/fifth-app/static/js/main.2183ef83.chunk.js",
+    "main.js.map": "/fifth-app/static/js/main.2183ef83.chunk.js.map",
     "runtime-main.js": "/fifth-app/static/js/runtime-main.30744356.js",
     "runtime-main.js.map": "/fifth-app/static/js/runtime-main.30744356.js.map",
     "static/js/2.b9653dc4.chunk.js": "/fifth-app/static/js/2.b9653dc4.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.30744356.js",
     "static/js/2.b9653dc4.chunk.js",
     "static/css/main.81fa4e35.chunk.css",
-    "static/js/main.85734f2c.chunk.js"
+    "static/js/main.2183ef83.chunk.js"
   ]
 }
