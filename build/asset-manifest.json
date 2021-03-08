@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fifth-app/static/css/main.81fa4e35.chunk.css",
+    "main.js": "/fifth-app/static/js/main.85734f2c.chunk.js",
+    "main.js.map": "/fifth-app/static/js/main.85734f2c.chunk.js.map",
+    "runtime-main.js": "/fifth-app/static/js/runtime-main.30744356.js",
+    "runtime-main.js.map": "/fifth-app/static/js/runtime-main.30744356.js.map",
+    "static/js/2.b9653dc4.chunk.js": "/fifth-app/static/js/2.b9653dc4.chunk.js",
+    "static/js/2.b9653dc4.chunk.js.map": "/fifth-app/static/js/2.b9653dc4.chunk.js.map",
+    "index.html": "/fifth-app/index.html",
+    "static/css/main.81fa4e35.chunk.css.map": "/fifth-app/static/css/main.81fa4e35.chunk.css.map",
+    "static/js/2.b9653dc4.chunk.js.LICENSE.txt": "/fifth-app/static/js/2.b9653dc4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/fifth-app/static/media/img18.9cdfe4a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30744356.js",
+    "static/js/2.b9653dc4.chunk.js",
+    "static/css/main.81fa4e35.chunk.css",
+    "static/js/main.85734f2c.chunk.js"
+  ]
+}
